@@ -1,0 +1,10 @@
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-1\ExploringProperties\ExploringProperties\obj\Debug\ExploringProperties.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-1\ExploringProperties\ExploringProperties\obj\Debug\ExploringProperties.Properties.Resources.resources
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-1\ExploringProperties\ExploringProperties\obj\Debug\ExploringProperties.csproj.GenerateResource.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-1\ExploringProperties\ExploringProperties\obj\Debug\ExploringProperties.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-1\ExploringProperties\ExploringProperties\bin\Debug\ExploringProperties.exe.config
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-1\ExploringProperties\ExploringProperties\bin\Debug\ExploringProperties.exe
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-1\ExploringProperties\ExploringProperties\bin\Debug\ExploringProperties.pdb
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-1\ExploringProperties\ExploringProperties\obj\Debug\ExploringProperties.exe
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-1\ExploringProperties\ExploringProperties\obj\Debug\ExploringProperties.pdb
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-1\ExploringProperties\ExploringProperties\obj\Debug\ExploringProperties.ExploringProperties.resources
