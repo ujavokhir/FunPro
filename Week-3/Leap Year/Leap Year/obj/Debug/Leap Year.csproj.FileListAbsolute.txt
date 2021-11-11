@@ -1,0 +1,10 @@
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Leap Year\Leap Year\bin\Debug\Leap Year.exe.config
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Leap Year\Leap Year\bin\Debug\Leap Year.exe
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Leap Year\Leap Year\bin\Debug\Leap Year.pdb
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Leap Year\Leap Year\obj\Debug\Leap Year.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Leap Year\Leap Year\obj\Debug\Leap_Year.Form1.resources
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Leap Year\Leap Year\obj\Debug\Leap_Year.Properties.Resources.resources
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Leap Year\Leap Year\obj\Debug\Leap Year.csproj.GenerateResource.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Leap Year\Leap Year\obj\Debug\Leap Year.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Leap Year\Leap Year\obj\Debug\Leap Year.exe
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Leap Year\Leap Year\obj\Debug\Leap Year.pdb
