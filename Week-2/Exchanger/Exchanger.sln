@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exchanger", "Exchanger\Exchanger.csproj", "{9111C710-E9BA-4EDD-9AD2-78C9FFCA6EDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9111C710-E9BA-4EDD-9AD2-78C9FFCA6EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9111C710-E9BA-4EDD-9AD2-78C9FFCA6EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9111C710-E9BA-4EDD-9AD2-78C9FFCA6EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9111C710-E9BA-4EDD-9AD2-78C9FFCA6EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78C207CB-3776-407A-997E-63857B77D9DC}
+	EndGlobalSection
+EndGlobal
