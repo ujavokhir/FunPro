@@ -1,0 +1,10 @@
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\CruelGames\CruelGames\bin\Debug\CruelGames.exe.config
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\CruelGames\CruelGames\bin\Debug\CruelGames.exe
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\CruelGames\CruelGames\bin\Debug\CruelGames.pdb
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\CruelGames\CruelGames\obj\Debug\CruelGames.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\CruelGames\CruelGames\obj\Debug\CruelGames.Form1.resources
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\CruelGames\CruelGames\obj\Debug\CruelGames.Properties.Resources.resources
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\CruelGames\CruelGames\obj\Debug\CruelGames.csproj.GenerateResource.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\CruelGames\CruelGames\obj\Debug\CruelGames.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\CruelGames\CruelGames\obj\Debug\CruelGames.exe
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\CruelGames\CruelGames\obj\Debug\CruelGames.pdb

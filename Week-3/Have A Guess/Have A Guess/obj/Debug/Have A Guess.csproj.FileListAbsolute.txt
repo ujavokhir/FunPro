@@ -1,0 +1,10 @@
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Have A Guess\Have A Guess\bin\Debug\Have A Guess.exe.config
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Have A Guess\Have A Guess\bin\Debug\Have A Guess.exe
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Have A Guess\Have A Guess\bin\Debug\Have A Guess.pdb
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Have A Guess\Have A Guess\obj\Debug\Have A Guess.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Have A Guess\Have A Guess\obj\Debug\Have_A_Guess.Form1.resources
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Have A Guess\Have A Guess\obj\Debug\Have_A_Guess.Properties.Resources.resources
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Have A Guess\Have A Guess\obj\Debug\Have A Guess.csproj.GenerateResource.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Have A Guess\Have A Guess\obj\Debug\Have A Guess.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Have A Guess\Have A Guess\obj\Debug\Have A Guess.exe
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-3\Have A Guess\Have A Guess\obj\Debug\Have A Guess.pdb
