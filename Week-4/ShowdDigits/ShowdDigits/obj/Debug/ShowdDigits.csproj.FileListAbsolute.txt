@@ -1,0 +1,10 @@
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\ShowdDigits\ShowdDigits\bin\Debug\ShowdDigits.exe.config
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\ShowdDigits\ShowdDigits\bin\Debug\ShowdDigits.exe
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\ShowdDigits\ShowdDigits\bin\Debug\ShowdDigits.pdb
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\ShowdDigits\ShowdDigits\obj\Debug\ShowdDigits.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\ShowdDigits\ShowdDigits\obj\Debug\ShowdDigits.Form1.resources
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\ShowdDigits\ShowdDigits\obj\Debug\ShowdDigits.Properties.Resources.resources
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\ShowdDigits\ShowdDigits\obj\Debug\ShowdDigits.csproj.GenerateResource.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\ShowdDigits\ShowdDigits\obj\Debug\ShowdDigits.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\ShowdDigits\ShowdDigits\obj\Debug\ShowdDigits.exe
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\ShowdDigits\ShowdDigits\obj\Debug\ShowdDigits.pdb

@@ -1,0 +1,10 @@
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe.config
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.pdb
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.Form1.resources
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.Properties.Resources.resources
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.csproj.GenerateResource.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.exe
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.pdb

@@ -1,0 +1,10 @@
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\TheSum\TheSum\bin\Debug\TheSum.exe.config
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\TheSum\TheSum\bin\Debug\TheSum.exe
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\TheSum\TheSum\bin\Debug\TheSum.pdb
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\TheSum\TheSum\obj\Debug\TheSum.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\TheSum\TheSum\obj\Debug\TheSum.Form1.resources
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\TheSum\TheSum\obj\Debug\TheSum.Properties.Resources.resources
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\TheSum\TheSum\obj\Debug\TheSum.csproj.GenerateResource.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\TheSum\TheSum\obj\Debug\TheSum.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\TheSum\TheSum\obj\Debug\TheSum.exe
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\TheSum\TheSum\obj\Debug\TheSum.pdb

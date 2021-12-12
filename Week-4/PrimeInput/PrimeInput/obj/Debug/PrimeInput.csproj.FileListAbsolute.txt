@@ -1,0 +1,10 @@
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\PrimeInput\PrimeInput\bin\Debug\PrimeInput.exe.config
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\PrimeInput\PrimeInput\bin\Debug\PrimeInput.exe
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\PrimeInput\PrimeInput\bin\Debug\PrimeInput.pdb
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\PrimeInput\PrimeInput\obj\Debug\PrimeInput.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\PrimeInput\PrimeInput\obj\Debug\PrimeInput.Form1.resources
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\PrimeInput\PrimeInput\obj\Debug\PrimeInput.Properties.Resources.resources
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\PrimeInput\PrimeInput\obj\Debug\PrimeInput.csproj.GenerateResource.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\PrimeInput\PrimeInput\obj\Debug\PrimeInput.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\PrimeInput\PrimeInput\obj\Debug\PrimeInput.exe
+C:\Users\555\OneDrive\Рабочий стол\FunPro\Week-4\PrimeInput\PrimeInput\obj\Debug\PrimeInput.pdb
